@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2014 Materialize
+=======
+MIT License
+
+Copyright (c) 2019 Olaf Minkowicz
+>>>>>>> 32a1dfb8981f86c846800167aa97d96e01d5af68
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -18,4 +24,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+<<<<<<< HEAD
 SOFTWARE.
+=======
+SOFTWARE.
+>>>>>>> 32a1dfb8981f86c846800167aa97d96e01d5af68
