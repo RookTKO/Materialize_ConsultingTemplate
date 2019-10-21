@@ -63,6 +63,18 @@ footer.page-footer {
   Custom Classes & Ids
 */
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#logo-container {
+  font-family: 'Anton',
+    sans-serif;
+  letter-spacing: 0.15rem;
+}
+
 .bg_layer {
   width: 175%;
   opacity: 0.5;
