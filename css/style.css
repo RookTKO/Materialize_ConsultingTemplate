@@ -63,6 +63,11 @@ footer.page-footer {
   Custom Classes & Ids
 */
 
+body {
+  font-family: 'Roboto',
+    sans-serif;
+}
+
 h1,
 h2,
 h3,
@@ -78,6 +83,10 @@ h6,
 .bg_layer {
   width: 175%;
   opacity: 0.5;
+}
+
+.parallax-container {
+  background-image: linear-gradient(to top, rgba(255, 154, 2, 0.4), rgb(0, 0, 0, 0.4));
 }
 
 .txt_drop {
