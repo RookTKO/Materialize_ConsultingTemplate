@@ -89,6 +89,12 @@ h6,
   background-image: linear-gradient(to top, rgba(255, 154, 2, 0.4), rgb(0, 0, 0, 0.4));
 }
 
+.btn,
+.btn-large,
+.btn-small,
+.btn-floating {
+  border-radius: 3px;
+}
 
 
 .txt_drop {
